@@ -1,0 +1,30 @@
+_repo: Life-of-Rear-Admiral-John-Randolph-Tucker_27101
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rochelle, James Henry
+    birthdate: 1826
+    deathdate: 1889
+    gutenberg_agent_id: '32456'
+    url: http://www.gutenberg.org/2009/agents/32456
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27101'
+  lccn: 03002959
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amazon River -- Navigation'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Naval operations'
+- !lcsh 'Tucker, John Randolph, 1812-1883'
+- !lcc 'E456'
+title: Life of Rear Admiral John Randolph Tucker
+url: http://www.gutenberg.org/ebooks/27101
