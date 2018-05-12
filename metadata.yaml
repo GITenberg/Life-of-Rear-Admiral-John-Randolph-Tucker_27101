@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32456'
     url: http://www.gutenberg.org/2009/agents/32456
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27101#Life-of-Rear-Admiral-John-Randolph-Tucker
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2008-10-30'
 gutenberg_type: Text
